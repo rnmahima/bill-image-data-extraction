@@ -1,4 +1,4 @@
-# bill-image-data-extraction
+# AI Vision project: Extracting Structured Data from Bills using Groq API
 This project extracts tabular data from bill images using Groq Vision API
 
 ## Technolgies
